@@ -32,7 +32,8 @@ The aim of this project is to control an RGB LED using an Arduino board. The LED
 
 - Green tab → Pin 10 of the Arduino via a 220 Ω resistor.
 
-- Blue Pin → Pin 11 of the Arduino via a resistor of 220 . Can you restore the forgotten color and free the crypt?Ω.
+- Blue Pin → Pin 11 of the Arduino via a resistor of 220 .
+- Can you restore the forgotten color and free the crypt?Ω.
 
 
 ![Circuit Diagram](circuit.jpeg)
