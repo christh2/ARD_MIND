@@ -35,25 +35,7 @@ The aim of this project is to control an RGB LED using an Arduino board. The LED
 - Blue Pin → Pin 11 of the Arduino via a resistor of 220 . Can you restore the forgotten color and free the crypt?Ω.
 
 
-
-           +5V
-           │
-         ┌─┴─┐
-         │   │  LED RGB (common anode)
-         │   │
-         │   └─────────────+
-         │                 │
-         │        ┌────────┴─────────┐
-         │        │                  │
-         │     [R]│              [G] │
-         │        │                  │
-Arduino 9─┴        │             Arduino 10─┴
-         │        │                  │
-         │        │             [B]  │
-         │        │                  │
-Arduino 11─────────┘                  │
-                                       │
-                                     GND (common for resistors if required)
+![Circuit Diagram](circuit.jpeg)
 
  
 # Production steps
