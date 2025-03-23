@@ -1,7 +1,7 @@
 # Title: Rgb Led Controller With Arduino
 			
 # Introduction	
-The aim of this project is to control an RGB LED using an Arduino board. The LED will display the different colors by successively switching on each component (red, green, blue) and their mixtures (yellow, magenta, cyan, white). This project is ideal for learning the basics of electronics, breadboard wiring and Arduino programming.
+The aim of this project is to control an RGB LED using an Arduino board. The LED will display the different colors by successively switching on each component (red, green, blue) and their mixtures (blue, red, green, violet and white). This project is ideal for learning the basics of electronics, breadboard wiring and Arduino programming.
 
 
 # Project objective
